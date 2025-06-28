@@ -1,1 +1,1 @@
-# PRODIGY_WD_02
+This stopwatch web application is built using HTML, CSS, and JavaScript, providing a simple yet interactive interface for accurate time tracking. HTML structures the layout, while CSS enhances the visual design to make it user-friendly. JavaScript adds core functionality, including the ability to start, pause, and reset the timer, as well as record and display lap times. The result is a responsive and efficient stopwatch tool that allows users to measure time intervals with ease and precision.
